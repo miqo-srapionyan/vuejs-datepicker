@@ -19,6 +19,7 @@ import gl from './translations/gl'
 import he from './translations/he'
 import hr from './translations/hr'
 import hu from './translations/hu'
+import hy from './translations/hy'
 import id from './translations/id'
 import is from './translations/is'
 import it from './translations/it'
@@ -71,6 +72,7 @@ export {
   he,
   hr,
   hu,
+  hy,
   id,
   is,
   it,
